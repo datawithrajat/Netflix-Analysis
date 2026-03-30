@@ -40,6 +40,3 @@ This was my first Power BI Dashboard..
 
 ## Author
 Datawithrajat
-
-## Author
-Rajat
